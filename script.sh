@@ -1,0 +1,2 @@
+export GITHUB_USERNAME="sudhershan32"
+export GITHUB_REPOSITORY="se2001-22f2001587"
